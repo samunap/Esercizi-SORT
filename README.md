@@ -1,2 +1,1 @@
-# fast_trigo
-Esercitazione 1 - SORT 
+ESERCIZI Sistemi Operativi e in Tempo Reale - Università degli studi di Parma
